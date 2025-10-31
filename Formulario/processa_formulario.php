@@ -8,6 +8,7 @@ $telefone = $_POST['telefone'];
 $genero = $_POST['genero'];
 $curso = $_POST['curso'];
 $mensagem =$_POST['mensagem'];
+"<br>";
 
 
 
